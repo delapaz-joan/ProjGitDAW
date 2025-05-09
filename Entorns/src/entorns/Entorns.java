@@ -19,6 +19,7 @@ public class Entorns {
        Scanner sc = new Scanner(System.in);
        int tipo_entrada= sc.nextInt();
        int edad = sc.nextInt();
+       boolean hola = true;
        
        
     }
